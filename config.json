@@ -1,0 +1,5 @@
+{
+    "appAccessToken" : "your-access-token",
+    "outgoingToken" : "yourOutgoingToken",
+    "commandToken" : "yourCommandToken"
+}
